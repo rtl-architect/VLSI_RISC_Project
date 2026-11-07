@@ -1,0 +1,10 @@
+{
+    "DESIGN_NAME": "risc_core",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 15.0,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 400 400",
+    "FP_PDN_MULTILAYER": true,
+    "PL_TARGET_DENSITY": 0.45
+}
